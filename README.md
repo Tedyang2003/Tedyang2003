@@ -42,7 +42,7 @@ Personally I have went through my Polytechnic Diploma handling data, and one of 
 </div>
 
 
-### Data Analytics 
+### Data Analytics and AI
 I also have prior experience in the data science field as it was a crucial part in my diploma. Here are the languages Ive used as well as the libraries I am familiar with
 #### Coded
 <div style="display:flex;">
@@ -50,6 +50,7 @@ I also have prior experience in the data science field as it was a crucial part 
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSz1PzGID0hvBb8sIctrCeNDwx8yKhUgOD3pA&s" height="80px"/>
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsZzYW4vSHL6u-h-F9nZge4rfvScSMU6CWBA&s" height="80px"/>
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6UTPV9TTPThzYSFv8Ps9o4hdlr84SRn_f5g&s" height="80px"/>
+
 </div>
 
 #### No-code analytics
@@ -58,6 +59,12 @@ I also have prior experience in the data science field as it was a crucial part 
 </div>
 
 <hr />
+
+#### AI development
+<div style="display:flex;">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNsNsCUnCK9dU4ADTVmRc0fs0KpHJwWFNJjQ&s" height="80px"/>
+    <img src="https://media.wired.com/photos/5927105acfe0d93c474323d7/master/pass/google-tensor-flow-logo-black-S.jpg" height="80px"/>
+</div>
 
 ## Qualifications
 These are the qualifications that I have racked up from different institutions along the years
