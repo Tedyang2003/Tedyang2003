@@ -58,7 +58,6 @@ I also have prior experience in the data science field as it was a crucial part 
     <img src="https://images.datacamp.com/image/upload/v1714478776/re388xshtgihucfiiavf.png" height="80px"/>
 </div>
 
-<hr />
 
 #### AI development
 <div style="display:flex;">
@@ -66,5 +65,18 @@ I also have prior experience in the data science field as it was a crucial part 
     <img src="https://media.wired.com/photos/5927105acfe0d93c474323d7/master/pass/google-tensor-flow-logo-black-S.jpg" height="80px"/>
 </div>
 
+### Other Languages 
+Here are also some other languages I have experience in using but have not really explored the applicational possiblitues
+<img src="https://miro.medium.com/v2/resize:fit:920/1*ati78IVpiHXC2o2CsYLBFw.jpeg" height="80px">
+
+<hr />
+
 ## Qualifications
 These are the qualifications that I have racked up from different institutions along the years
+
+### Diploma in Applied AI and Analytics (2019 to 2022)
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVnxHdN8zl42yBS2VtZltrZAFHXQGAX-JYZE99e_xAkcJqqvNFVrIbkmJYK__ZzyfqhLs&usqp=CAU" height="80px"/>
+
+
+### Bachelors in Computer Science (2024 Ongoing)
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRltS7M3mxeRMdY5dMAJrFOpX04pD9qaQY1Xg&s" height="80px"/>
