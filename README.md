@@ -18,7 +18,7 @@ I have experience in UI development usig the following, both code and no code op
     <img src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/3000/figma-logo-512.png" height="80px"/>
     <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_1280.png" height="80px"/>
     <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_1280.png" height="80px"/>
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSff90_MR_zyln7GdER-nrk-YCbgDLc3Lu2BQ&s" height="80px"/>
+    <img src="https://e7.pngegg.com/pngimages/439/345/png-clipart-bootstrap-logo-thumbnail-tech-companies.png" height="80px"/>
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2560px-Tailwind_CSS_Logo.svg.png" height="80px"/>    
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwA0vHg8xXDiBGuutv6wIwloQDFJ0HcRDvDx0uqMCS9XDkmneXmAOh1K5K3g&s" height="80px"/>    
 
@@ -28,9 +28,8 @@ I have experience in UI development usig the following, both code and no code op
 #### Backend API Development
 I have done backend developemnt mainly centered around RESTful API, however I am still exploring different tools and options such as sockets
 <div style="display:flex;">
-    <img src="https://cdn.worldvectorlogo.com/logos/flask.svg" height="80px"/>
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKmtAv2G_LoVvYzVphgkaW6W1yj3z0tR7igw&s" height="80px"/>
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBwzWqFVu66ck-2u_nDBgLTZbR3cNjpUCbWg&s" height="80px"/>
+    <img src="https://www.bairesdev.com/wp-content/uploads/2021/08/Flask-1.svg" height="80px"/>
+    <img src="https://qualitapps.com/wp-content/uploads/2023/02/102.png" height="80px"/>
 </div>
 
 #### Database Development
