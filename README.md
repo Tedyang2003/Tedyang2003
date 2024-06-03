@@ -43,12 +43,21 @@ Personally I have went through my Polytechnic Diploma handling data, and one of 
 
 
 ### Data Analytics 
+I also have prior experience in the data science field as it was a crucial part in my diploma. Here are the languages Ive used as well as the libraries I am familiar with
 #### Coded
+<div style="display:flex;">
+    <img src="https://i.pinimg.com/originals/82/a2/18/82a2188c985ce75402ae44fc43fe7e5e.png" height="80px"/>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSz1PzGID0hvBb8sIctrCeNDwx8yKhUgOD3pA&s" height="80px"/>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsZzYW4vSHL6u-h-F9nZge4rfvScSMU6CWBA&s" height="80px"/>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6UTPV9TTPThzYSFv8Ps9o4hdlr84SRn_f5g&s" height="80px"/>
+</div>
 
 #### No-code analytics
-
+<div style="display:flex;">
+    <img src="https://images.datacamp.com/image/upload/v1714478776/re388xshtgihucfiiavf.png" height="80px"/>
+</div>
 
 <hr />
 
 ## Qualifications
-These are the qualifications that I have racked up from different institutions along the yeats
+These are the qualifications that I have racked up from different institutions along the years
