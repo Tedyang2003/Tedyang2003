@@ -29,8 +29,7 @@ I have experience in UI development usig the following, both code and no code op
 I have done backend developemnt mainly centered around RESTful API, however I am still exploring different tools and options such as sockets
 <div style="display:flex;">
     <img src="https://www.bairesdev.com/wp-content/uploads/2021/08/Flask-1.svg" height="80px"/>
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKmtAv2G_LoVvYzVphgkaW6W1yj3z0tR7igw&s" height="80px"/>
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBwzWqFVu66ck-2u_nDBgLTZbR3cNjpUCbWg&s" height="80px"/>
+    <img src="https://qualitapps.com/wp-content/uploads/2023/02/102.png" height="80px"/>
 </div>
 
 #### Database Development
