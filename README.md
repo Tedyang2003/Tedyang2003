@@ -34,6 +34,13 @@ I have done backend developemnt mainly centered around RESTful API, however I am
 </div>
 
 #### Database Development
+Personally I have went through my Polytechnic Diploma handling data, and one of that skill sets obtained was database development and querying. These are the tools which I have used in the past.
+<div style="display:flex;">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdY5ijq_XozMl2JqF3GMTAZSplwjPPcBOSew&s" height="80px"/>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQdl3wf5dvWsEcs1nuKeL4pZ1dhZXzilxyjw&s" height="80px"/>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPpYnbJTvN4q7WinjryvgtBpR4S3HZ7OkoGg&s" height="80px"/>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgVqKpdOtgnXCBpwEqgOTeEFmhFgJSDaF2jw&s" height="80px"/>
+</div>
 
 
 ### Data Analytics 
