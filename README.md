@@ -24,8 +24,8 @@
 
 ## 🔭 Currently Working On
 
-**SAIC Agentic RAG & OCR Plugin** — *work project, private repo*
-An LM Studio plugin built for SAIC that gives the model tool-driven, agentic access to attached spreadsheets and
+**Agentic Document Parser - DIS** — *work project, private repo*
+An LM Studio plugin built for DIS that gives the model tool-driven, agentic access to attached spreadsheets and
 documents — including scanned/flat PDFs — instead of dumping raw file content into context. An Excel sub-agent
 (DuckDB-backed) handles spreadsheet queries, a document sub-agent handles semantic retrieval with an OCR
 (Tesseract) fallback for scanned files, and results are cached per session. Built in TypeScript on the LM Studio SDK.
